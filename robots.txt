@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://about.zong62296.com/sitemap.xml
